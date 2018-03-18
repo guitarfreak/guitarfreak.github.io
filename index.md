@@ -32,10 +32,10 @@ _Last updated 18.03.2018._
 
 <p float="right">
 	<a href="/assets/images/pathtracer.png">
-  		<img src="/assets/images/pathtracer.png" width="50%" />
+  		<img src="/assets/images/Pathtracer.png" width="50%" />
   	</a>
 	<a href="/assets/images/pathtracer2.png">
-		<img src="/assets/images/pathtracer2.png" width="49%" />
+		<img src="/assets/images/Pathtracer2.png" width="49%" />
   	</a>
 </p>
 
