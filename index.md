@@ -2,124 +2,58 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<p float="right">
+	<a href="/assets/images/pathtracer.png">
+  		<img src="/assets/images/pathtracer.png" width="50%" />
+  	</a>
+	<a href="/assets/images/pathtracer2.png">
+		<img src="/assets/images/pathtracer2.png" width="49%" />
+  	</a>
+</p>
 
-This is some text.
+# Pathtracer (v0.5)
 
-[Link to another page](another-page).
+#### A path tracer with basic functionality.
 
-There should be whitespace between paragraphs.
+* Edit entities.
+* Save/load scenes.
+* Save screenshots.
+* Two geometry types: spheres and boxes.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Runs on Windows 32bit and 64bit starting with Windows XP.  
+It uses Freetype to render fonts and stb_image/stb_image_write to read/write images.  
+Lines of Code: 12.6K.
 
-# [](#header-1)Header 1
+Download for [x86](/assets/apps/pathtracer x86.zip) and [x64](/assets/apps/pathtracer x64.zip).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+_Last updated 18.03.2018._
 
 * * *
 
-### Here is an unordered list:
+<p float="right">
+	<a href="/assets/images/pathtracer.png">
+  		<img src="/assets/images/pathtracer.png" width="50%" />
+  	</a>
+	<a href="/assets/images/pathtracer2.png">
+		<img src="/assets/images/pathtracer2.png" width="49%" />
+  	</a>
+</p>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+# Playlist Viewer (v0.7)
 
-### And an ordered list:
+#### Load and view youtube playlists.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* Edit entities.
+* Save/load scenes.
+* Save screenshots.
+* Two geometry types: spheres and boxes.
 
-### And a nested list:
+Runs on Windows 32bit and 64bit starting with Windows XP.  
+It uses Freetype to render fonts and stb_image/stb_image_write to read/write images.  
+Lines of Code: 12.6K.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Download for [x86](/assets/apps/pathtracer x86.zip) and [x64](/assets/apps/pathtracer x64.zip).
 
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+_Last updated 18.03.2018._
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

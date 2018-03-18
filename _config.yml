@@ -2,3 +2,5 @@ gems:
 - jekyll-seo-tag
 
 theme: jekyll-theme-midnight
+title: My Apps
+# description: This is the Description
