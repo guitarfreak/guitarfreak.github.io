@@ -20,7 +20,7 @@ layout: default
 * Save screenshots.
 * Two geometry types: spheres and boxes.
 
-Runs on Windows 32bit and 64bit starting with Windows XP.  
+Written in C++. Runs on Windows 32bit and 64bit starting with Windows XP.  
 It uses Freetype to render fonts and stb_image/stb_image_write to read/write images.  
 Lines of Code: 12.6K.
 
@@ -51,7 +51,7 @@ _Last updated 19.03.2018._
 * Make screenshots.
 * Customizable color theme.
 
-Runs on Windows 32bit and 64bit starting with Windows XP.  
+Written in C++. Runs on Windows 32bit and 64bit starting with Windows XP.  
 It uses Freetype to render fonts, stb_image/stb_image_write to read/write images and Libcurl to send HTTP requests.  
 Lines of Code: 11K.
 
