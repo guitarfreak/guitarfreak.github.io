@@ -26,7 +26,7 @@ Lines of Code: 12.6K.
 
 Download for [x86](/assets/apps/Pathtracer x86.zip) and [x64](/assets/apps/Pathtracer x64.zip).
 
-_Last updated 19.03.2018._
+_Last updated 23.03.2018._
 
 * * *
 
