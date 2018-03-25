@@ -15,10 +15,11 @@ layout: default
 
 #### A path tracer with basic functionality.
 
+* Reflection, refraction, depth of field.
+* Two geometry types: spheres and boxes.
 * Edit entities.
 * Save/load scenes.
 * Save screenshots.
-* Two geometry types: spheres and boxes.
 
 Written in C++. Runs on Windows 32bit and 64bit starting with Windows XP.  
 It uses Freetype to render fonts and stb_image/stb_image_write to read/write images.  
