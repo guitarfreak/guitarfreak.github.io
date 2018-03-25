@@ -11,7 +11,7 @@ layout: default
   	</a>
 </p>
 
-# Pathtracer (v0.5)
+# Pathtracer (v0.6)
 
 #### A path tracer with basic functionality.
 
