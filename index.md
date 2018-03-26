@@ -23,11 +23,11 @@ layout: default
 
 Written in C++. Runs on Windows 32bit and 64bit starting with Windows XP.  
 It uses Freetype to render fonts and stb_image/stb_image_write to read/write images.  
-Lines of Code: 12.6K.
+Lines of code: 13K.
 
 Download for [x86](/assets/apps/Pathtracer x86.zip) and [x64](/assets/apps/Pathtracer x64.zip).
 
-_Last updated 23.03.2018._
+_Last updated 26.03.2018._
 
 * * *
 
@@ -54,7 +54,7 @@ _Last updated 23.03.2018._
 
 Written in C++. Runs on Windows 32bit and 64bit starting with Windows XP.  
 It uses Freetype to render fonts, stb_image/stb_image_write to read/write images and Libcurl to send HTTP requests.  
-Lines of Code: 11K.
+Lines of code: 11K.
 
 Download for [x86](/assets/apps/Playlist Viewer x86.zip) and [x64](/assets/apps/Playlist Viewer x64.zip).
 
