@@ -16,7 +16,7 @@ layout: default
 #### A path tracer with basic functionality.
 
 * Reflection, refraction, depth of field.
-* Two geometry types: spheres and boxes.
+* Two geometry types: ellipsoids and boxes.
 * Edit entities.
 * Save/load scenes.
 * Save screenshots.
@@ -27,7 +27,7 @@ Lines of code: 13K.
 
 Download for [x86](/assets/apps/Pathtracer x86.zip) and [x64](/assets/apps/Pathtracer x64.zip).
 
-_Last updated 26.03.2018._
+_Last updated 27.03.2018._
 
 * * *
 
