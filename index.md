@@ -16,7 +16,7 @@ layout: default
 #### A path tracer with basic functionality.
 
 * Reflection, refraction, depth of field.
-* Two geometry types: ellipsoids and boxes.
+* Ellipsoids, boxes, cylinders and cones.
 * Edit entities.
 * Save/load scenes.
 * Save screenshots.
