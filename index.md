@@ -23,7 +23,7 @@ layout: default
 * Save/load scenes.
 * Save screenshots.
 
-Written in C++Runs on Windows 32bit and 64bit starting with Windows XP.  
+Written in C++. Runs on Windows 32bit and 64bit starting with Windows XP.  
 It uses Opengl 3.3, Freetype to render fonts and stb_image/stb_image_write to read/write images.  
 Lines of code: 13.8K.
 
