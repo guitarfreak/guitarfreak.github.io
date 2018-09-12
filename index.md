@@ -27,7 +27,7 @@ Written in C++. Runs on Windows 32bit and 64bit starting with Windows XP.
 It uses Opengl 3.3, Freetype to render fonts and stb_image/stb_image_write to read/write images.  
 Lines of code: 13.8K.
 
-Download for [x86](https://github.com/guitarfreak/Pathtracer/releases/download/v0.6/Pathtracer.x86.zip) and [x64](https://github.com/guitarfreak/Pathtracer/releases/download/v0.6/Pathtracer.x64.zip).
+Download [here](https://github.com/guitarfreak/Pathtracer/releases/).
 
 _Last updated 03.04.2018._
 
@@ -58,7 +58,7 @@ Written in C++. Runs on Windows 32bit and 64bit starting with Windows XP.
 It uses Opengl 3.3, Freetype to render fonts, stb_image/stb_image_write to read/write images and Libcurl to send HTTP requests.  
 Lines of code: 11K.
 
-Download for [x86](https://github.com/guitarfreak/Playlist-Viewer/releases/download/v0.7/Playlist.Viewer.x86.zip) and [x64](https://github.com/guitarfreak/Playlist-Viewer/releases/download/v0.7/Playlist.Viewer.x64.zip).
+Download [here](https://github.com/guitarfreak/Playlist-Viewer/releases/).
 
 _Last updated 19.03.2018._
 
